@@ -13,6 +13,9 @@ body{
 p{
 	font-size: 25px;
 }
+a:hover{
+	color: #b0b0b0;
+}
 header{
 	position: fixed;
 	width: 100%;
@@ -38,7 +41,7 @@ footer{
 .headerNavText{
 	font-size: 25px;
 	text-decoration: none;
-	color: white;
+	color: #e6e6e6;
 }
 #headerText{
 	text-align: center;
