@@ -23,6 +23,9 @@ p{
 .break{
 	margin-bottom: 3em;
 }
+a:hover{
+	color: #b0b0b0;
+}
 header{
 	position: fixed;
 	width: 100%;
@@ -59,18 +62,9 @@ footer{
 	margin: 15px;
 	margin-top: 20px;
 }
-#headerTitle{
-	color: white;
-	font-size: 40px;
-	text-decoration: none;
-}
-a:hover{
-	color: #b0b0b0;
-}
 .h2{ /*Use this class + <a> tag to make smaller headings beside main ones*/
 	font-size: 15px;
 	display: inline-block;
-	margin-left: 1ex;
 }
 .pageBanner{
 	/*border-style: hidden;
