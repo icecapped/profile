@@ -67,6 +67,9 @@ footer{
 a:hover{
 	color: #b0b0b0;
 }
+.small{
+	font-size: 15px;
+}
 .h2{ /*Use this class + <a> tag to make smaller headings beside main ones*/
 	font-size: 15px;
 	display: inline-block;
@@ -82,9 +85,9 @@ a:hover{
 }
 .boxImage{
 	border-style: solid;
-	border-color: #c2c2c2;
-	border-radius: 5px;
-	box-shadow: 0px 0px 15px 2px #c2c2c2;
+	border-color: #777777;
+	border-radius: 10px;
+	box-shadow: 0px 0px 15px 2px #777777;
 }
 #wrapper{
 	box-shadow: 0px 0px 10px 3px #d6d6d6;
