@@ -1,4 +1,7 @@
-# Michael Shi's Profile Website: ICS2O7 2017
-Website for ICS2O7 class of 2017 Web developement assignment
+# Personal Website
+Currently under re-construction.
 
-Also serves as my personal profile.
+# Setup
+**Hosted** on [AWS Lightsail](https://aws.amazon.com/lightsail/)  
+**Webserver** using [Apache](https://www.apache.org/)  
+**HTTPS Certificate** provided by [Let's Encrypt](https://letsencrypt.org/)  
