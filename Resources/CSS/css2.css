@@ -28,7 +28,8 @@ body{
  */
 #heading{
     margin-bottom: 0px;
-    
+    margin-top: 40px;
+
     background-color: #ffffff;
 
     display: flex;
@@ -82,13 +83,16 @@ hr{
 .typewriter{
     font-family: 'Source Code Pro';
     font-size: 2em;
+    width: 0;
 
     overflow: hidden;
     white-space: nowrap;
     border-right: .1em solid #2e3649; /* The typwriter cursor */
+    
     animation: 
-        typing 3s steps(19, end),
+        typing 2s steps(19, end) forwards,
         blink-caret 1s step-end infinite;
+    animation-delay: 1.5s, 0s;
 }
 /* The typing effect */
 @keyframes typing {
@@ -105,6 +109,7 @@ hr{
  * Content
  */
 p{
+    text-align: justify;
     font-weight: 400;
     font-size: 24px;
 }
