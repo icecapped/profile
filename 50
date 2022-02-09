@@ -1,0 +1,306 @@
+* [33mcommit a8f0915913179da9c2a7ac028f61c39d031cbadb[m[33m ([m[1;36mHEAD -> [m[1;32mconstruction[m[33m)[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Mon Nov 15 19:24:54 2021 -0500
+[31m|[m 
+[31m|[m     Adjust typewriter
+[31m|[m 
+* [33mcommit 5a6a56815d1b904d1c394eca7691adc02b69937c[m[33m ([m[1;31morigin/construction[m[33m)[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Fri Nov 5 16:44:54 2021 -0400
+[31m|[m 
+[31m|[m     Fix Engineering Stud bug
+[31m|[m 
+* [33mcommit 6d609994f266f0fa20aed6b03e28bca012216031[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Fri Nov 5 00:24:34 2021 -0400
+[31m|[m 
+[31m|[m     Remove projects.html and about.html
+[31m|[m 
+* [33mcommit 1a1f06d9ea642ff1ade30d3a0b707384143b3d35[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Fri Nov 5 00:19:38 2021 -0400
+[31m|[m 
+[31m|[m     Redesign HTML structure and overhaul CSS/css2
+[31m|[m     
+[31m|[m     - Changed colour schemes
+[31m|[m     - Abandoned top bar
+[31m|[m     - Fixed general formatting
+[31m|[m     - Added cool typewriter effect
+[31m|[m     - Sorted out fonts
+[31m|[m     - Mostly setup for adding actual content
+[31m|[m 
+* [33mcommit 8896faec7e23a2750327b2e123c606e69bb005fa[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Thu Nov 4 02:19:20 2021 -0400
+[31m|[m 
+[31m|[m     Begin new CSS
+[31m|[m 
+* [33mcommit b13c53f3d31f5f386ee580c50dbed4be8f5385e7[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Wed Oct 20 18:32:10 2021 -0400
+[31m|[m 
+[31m|[m     More test
+[31m|[m 
+* [33mcommit f2d7f126e2e2b8e621bab552197d4724d90c193d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Wed Oct 20 18:27:38 2021 -0400
+[31m|[m 
+[31m|[m     test4
+[31m|[m 
+* [33mcommit 90627b583b5d777b7b32b979de5836787fb35f24[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Wed Oct 20 12:26:06 2021 -0400
+[31m|[m 
+[31m|[m     test2
+[31m|[m 
+* [33mcommit 2952a729ec706cf6a485d44c905cd9e6b6c8e152[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Wed Oct 20 12:24:35 2021 -0400
+[31m|[m 
+[31m|[m     test2
+[31m|[m 
+* [33mcommit 9596bd4b15b11c1e64e79a1be91be63594aef4e4[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Wed Oct 20 12:22:41 2021 -0400
+[31m|[m 
+[31m|[m     remote git hook test
+[31m|[m 
+* [33mcommit 9a29040f891f4db57f8ff0c443822dd8e47049a1[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Wed Oct 20 12:10:48 2021 -0400
+[31m|[m 
+[31m|[m     Update readme.md
+[31m|[m 
+* [33mcommit ea513c2f57b33b4fefce3d04cf7f32fc6bfba9d6[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Thu Oct 7 13:06:19 2021 -0400
+[31m|[m 
+[31m|[m     TESTTTTTTT
+[31m|[m 
+* [33mcommit 1a42a62e846ab4392c2fb8a16710cb53704b1632[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Thu Oct 7 13:00:59 2021 -0400
+[31m|[m 
+[31m|[m     test again
+[31m|[m 
+* [33mcommit 4f59b2cf61c844d51dacb2b1867dd3c963e97d61[m
+[31m|[m Author: icecapped <1027Michael@gmail.com>
+[31m|[m Date:   Thu Oct 7 12:27:20 2021 -0400
+[31m|[m 
+[31m|[m     test commi
+[31m|[m 
+* [33mcommit d661731a868fce7c6a527ac231678a3e94445e97[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 20 19:39:27 2021 -0400
+[31m|[m 
+[31m|[m     Update CNAME
+[31m|[m 
+* [33mcommit 377af7bf5ab30c91b4dc85463ae80bcb651d3b24[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 20 19:24:31 2021 -0400
+[31m|[m 
+[31m|[m     Create CNAME
+[31m|[m 
+* [33mcommit 14577ad528b0ac0b6e6defb245775148a592e22c[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 20 19:21:51 2021 -0400
+[31m|[m 
+[31m|[m     Delete CNAME
+[31m|[m 
+* [33mcommit 57bf9dea85c9ada0a3cef3dabb789ac32ced978e[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 20 19:21:46 2021 -0400
+[31m|[m 
+[31m|[m     Update CNAME
+[31m|[m 
+* [33mcommit 337cea3c460daa990dc19f68a3d00b3adfc65d61[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 20 18:46:11 2021 -0400
+[31m|[m 
+[31m|[m     Create CNAME
+[31m|[m 
+* [33mcommit 28c0abd745f2e2f65a396277c55d2d470f890056[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Sun Nov 15 23:13:36 2020 -0500
+[31m|[m 
+[31m|[m     Delete CNAME
+[31m|[m 
+* [33mcommit 175794ac968e913fff08ad7bc214c99a3fa8a57a[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 16 01:34:38 2019 -0400
+[31m|[m 
+[31m|[m     Create CNAME
+[31m|[m 
+* [33mcommit a23dfbaa116c7f3e9252825d8b2eb29f07be617e[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 16 01:33:57 2019 -0400
+[31m|[m 
+[31m|[m     Delete CNAME
+[31m|[m 
+* [33mcommit 2d289a9f3d5c977db6b3f00428dbef7d8b0bab81[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 16 01:30:37 2019 -0400
+[31m|[m 
+[31m|[m     Update CNAME
+[31m|[m 
+* [33mcommit 65dcd64aebce13c83d426d410ad717fdfaa05eba[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Mon Sep 16 00:02:50 2019 -0400
+[31m|[m 
+[31m|[m     Update CNAME
+[31m|[m 
+* [33mcommit 99123dce428f6a9251234de0d93d1d99874a18fa[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Sun Sep 15 23:54:53 2019 -0400
+[31m|[m 
+[31m|[m     Update CNAME
+[31m|[m 
+* [33mcommit ac3b172adce14092555a72c6bab91965fca0a2d1[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Sun Sep 15 23:39:08 2019 -0400
+[31m|[m 
+[31m|[m     Create CNAME
+[31m|[m 
+* [33mcommit 5c3c31abc87813a06df478eba6f05e187e9a2743[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sun Aug 11 16:01:59 2019 -0400
+[31m|[m 
+[31m|[m     Update Content
+[31m|[m 
+* [33mcommit 64b2947e4f80867e3f7b8609435a53f32e508138[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Thu Jul 25 15:13:09 2019 -0400
+[31m|[m 
+[31m|[m     Add Shipduel project
+[31m|[m 
+* [33mcommit 37a8260645df8361c5cb41b82b7f24ae6bff09d8[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Thu Oct 26 17:06:16 2017 -0400
+[31m|[m 
+[31m|[m     Added GrocerReady to projects list
+[31m|[m 
+* [33mcommit 10d3a71bcf04e9543ddf9506da1364204c247a55[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sun Sep 24 16:27:11 2017 -0400
+[31m|[m 
+[31m|[m     Fixed spelling error
+[31m|[m 
+* [33mcommit 636b7ec07ba7fccfdb7f720598726d868745f38b[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sun Sep 24 14:31:19 2017 -0400
+[31m|[m 
+[31m|[m     Added validator links, fixed index page
+[31m|[m 
+* [33mcommit b9eaa15fd8c319196379420d8709ebff750e1838[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sat Sep 23 20:54:45 2017 -0400
+[31m|[m 
+[31m|[m     Added excuse for some validation errors
+[31m|[m 
+* [33mcommit 9eb5600b225aa89c0acd5bd2358e6c5765d38792[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sat Sep 23 20:45:40 2017 -0400
+[31m|[m 
+[31m|[m     Testing validation
+[31m|[m 
+* [33mcommit 114c1be13f2b0185b2ac60e786cb1fb68ea13e1f[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sat Sep 23 20:41:27 2017 -0400
+[31m|[m 
+[31m|[m     Added hidden sources page
+[31m|[m 
+* [33mcommit d9e64c9011d1ee55371efbe4d6627c3243149d33[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sat Sep 23 17:11:32 2017 -0400
+[31m|[m 
+[31m|[m     Added contact to about page, tweaked projects page
+[31m|[m 
+* [33mcommit ea9d779f6bbb86b11b1ef7bc07fc88ca78e6a3a3[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sat Sep 23 16:56:20 2017 -0400
+[31m|[m 
+[31m|[m     Finished About page, added new images
+[31m|[m 
+* [33mcommit 0b7eaf64025231c7a17a125bc0ba741e6677459f[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sat Sep 23 12:50:08 2017 -0400
+[31m|[m 
+[31m|[m     Finished project page v1
+[31m|[m 
+* [33mcommit 7812bb3394b85c81deb29b642f4cc6cce9bd34d1[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Wed Sep 20 20:53:06 2017 -0400
+[31m|[m 
+[31m|[m     Attempted fix for missing image
+[31m|[m 
+* [33mcommit 7c1253c3cfc65299dbae2dde8408a4d3b6849e87[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Wed Sep 20 20:35:28 2017 -0400
+[31m|[m 
+[31m|[m     Added image to projects page
+[31m|[m 
+* [33mcommit f3876c61319ced73473516f903afe23f6193bfdc[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Tue Sep 19 22:59:52 2017 -0400
+[31m|[m 
+[31m|[m     Updated about page, secondary heading formatting and uploaded image for projects page
+[31m|[m 
+* [33mcommit e4d0fc81c8df8fafb9537b06d8895fc2a5369677[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sun Sep 17 22:33:11 2017 -0400
+[31m|[m 
+[31m|[m     Added projects page
+[31m|[m 
+* [33mcommit 7300c2e8861e1b9ea3d7e8f26cd9e7ebe16ab7da[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sun Sep 17 11:38:31 2017 -0400
+[31m|[m 
+[31m|[m     Added Contact info
+[31m|[m 
+* [33mcommit b9dab07a75fac60402f467bf5cee403951c32632[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sat Sep 16 20:56:57 2017 -0400
+[31m|[m 
+[31m|[m     Message
+[31m|[m 
+* [33mcommit 03d8c7f2142466d68e4cf34e6d56763a8dcd021c[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Sat Sep 16 20:54:39 2017 -0400
+[31m|[m 
+[31m|[m     Added Banner
+[31m|[m 
+* [33mcommit a03e358e0fe3f9cc16473c759dc5bcbecee46581[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Fri Sep 15 20:57:25 2017 -0400
+[31m|[m 
+[31m|[m     Updated Header Nav
+[31m|[m 
+* [33mcommit ca89a0db66dd3fbda4c1ded94875ea9767b191ca[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Fri Sep 15 19:49:52 2017 -0400
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m 
+* [33mcommit 4529cccb6a597648b87f6934cff74628aa1153df[m
+[31m|[m Author: Michael Shi <1027Michael@gmail.com>
+[31m|[m Date:   Fri Sep 15 19:48:05 2017 -0400
+[31m|[m 
+[31m|[m     Create README.md
+[31m|[m 
+* [33mcommit ce6242c452808ef2ea8eb0981e18a8eae08d69e9[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Fri Sep 15 19:47:13 2017 -0400
+[31m|[m 
+[31m|[m     Message
+[31m|[m 
+* [33mcommit b801cff3afa8202f4f49150871692879bda2cb7e[m
+[31m|[m Author: Michael Shi <1027michael@gmail.com>
+[31m|[m Date:   Fri Sep 15 19:02:02 2017 -0400
+[31m|[m 
+[31m|[m     Message
+[31m|[m 
+* [33mcommit f975c591722a539498cd278c43dacb2c22fbfbeb[m
+  Author: Michael Shi <1027michael@gmail.com>
+  Date:   Fri Sep 15 18:59:04 2017 -0400
+  
+      Initial commit
